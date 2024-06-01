@@ -1,0 +1,21 @@
+{
+    "skin": "DeadRed",
+    "token_list": "tokens.txt",
+    "thread_count": 800,
+    "use_proxies": 1,
+    "proxy_type": "http",
+    "proxy_list": "",
+    "proxy_auth": 1,
+    "proxy_user": "",
+    "proxy_pass": "",
+    "verbose": 0,
+    "disable_theme_music": 1,
+    "command_line_mode": 0,
+    "no_tk_mode": 0,
+    "disable_cloudflare_check": 0,
+    "disable_update_check": 1,
+    "server_smasher_in_main_window": 0,
+    "ignore_ffmpeg_missing": 1,
+    "combine_uverified_and_verified": 0,
+    "show_licence": 0
+}
